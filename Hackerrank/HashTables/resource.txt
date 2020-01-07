@@ -1,0 +1,4 @@
+
+Hashtable creation in CPP:
+
+- https://www.youtube.com/watch?v=MfhjkfocRR0 (look at the full series till part 9 at least)
